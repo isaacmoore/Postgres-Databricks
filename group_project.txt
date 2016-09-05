@@ -1,0 +1,37 @@
+We're at Netflix
+How would you determine what series to invest in or create?
+
+(3 sentences)
+Define the role, Set goals and expectations, structure for disagreements.
+
+---
+
+Metrics -- Invest (license) -- $ per genre
+OR
+Create (produce) -- license vs produce
+
+Questions:
+Time series - release of original content / increase in subscribers
+What did a new subscriber watch, licensed or original?
+New show that are introduced - demand/genre
+What drives sign-ups
+
+Roles:
+Each person answers a question.
+
+Goals:
+Every team member answers a question, reports results.
+
+Disagreements:
+rock, paper, scissors.
+
+-------------------------------------------------------------------------
+Citi Bike Sharing NY Data
+-------------------------------------------------------------------------
+Questions:
+Omar - When is the most demand of bikes in specific areas?
+Isaac - Best places to advertise?
+Leslie - Best demographic to advertise?
+Popular places?
+    Months
+    Mike - Times of day
